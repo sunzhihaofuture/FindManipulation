@@ -6,7 +6,7 @@ Manipulation Detection and Localization based on [PyTorch](https://pytorch.org/)
 
 </div>
 
-# 👻 Introduction
+# 💡 Introduction
 
 With the rapid advancement of image editing technology, the detection of image tampering has become an increasingly important area of research. However, due to the use of various deep learning frameworks by different researchers, such as PyTorch and TensorFlow, the consolidation of open-source work on state-of-the-art (SOTA) methods has been challenging. 
 

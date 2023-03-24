@@ -1,0 +1,4 @@
+================================
+image_auc: 49.14, image_sensitivity: 100.00, image_specificity: 0.00, image_f1: 0.00
+pixel_auc: 62.84, pixel_precision_th05: 19.93, pixel_recall_th05: 12.15, pixel_f1_th05: 12.68
+================================
